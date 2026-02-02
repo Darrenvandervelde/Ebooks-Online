@@ -49,14 +49,12 @@ This project can be reused or extended for other digital products such as mobile
 ```
 Ebooks-Online/
 │
-├── index.html        # Main landing page
-├── css/
-│   └── style.css     # Main stylesheet
-├── js/
-│   └── script.js     # JavaScript functionality
-├── images/           # Images and assets
-├── Screenshot.png    # Project preview image
-└── README.md         # Project documentation
+├── index.html
+├── style.css
+├── script.js
+├── Screenshot.png
+├── License
+└── README.md
 ```
 
 ---
