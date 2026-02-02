@@ -1,33 +1,92 @@
 # Ebooks-Online
-Download Website for Ebook Online 
+
+Download Website for Ebook Online
 
 ![ScreenShoot](Screenshot.png)
 
-Please Click Here to [view Live Demo](https://ebooks-online.vercel.app/)
+Please click here to [view live demo](https://ebooks-online.vercel.app/)
+
+---
 
 ## Overview
 
-This is a website for an app download for ebooks
-It's just an template for apps but current use is for ans Ebook App for download.
+Ebooks-Online is a simple download website template designed for promoting and distributing an ebook application. While structured as a general app download landing page, its current implementation focuses on an **Ebook App**.
 
+This project can be reused or extended for other digital products such as mobile apps, tools, or downloadable resources.
+
+---
 
 ## Table of Contents (Optional)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Features](#features)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Features](#features)
+* [Technology](#technology)
+* [Credits](#credits)
+* [License](#license)
+
+---
 
 ## Features
 
-- Downloadable app Button
-- Socials for the Product
-- Modern View
+* App download button
+* Social media links for the product
+* Clean and modern user interface
+* Responsive layout
 
-## Technology 
+---
 
-- HTML5
-- CSS3
-- JavaScript
+## Technology
 
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## Project Structure
+
+```
+Ebooks-Online/
+│
+├── index.html        # Main landing page
+├── css/
+│   └── style.css     # Main stylesheet
+├── js/
+│   └── script.js     # JavaScript functionality
+├── images/           # Images and assets
+├── Screenshot.png    # Project preview image
+└── README.md         # Project documentation
+```
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/Ebooks-Online.git
+   ```
+2. Open the project folder
+3. Run `index.html` in your browser
+
+---
+
+## Usage
+
+* Use as a landing page for an ebook or app download
+* Customize branding, text, and links
+* Extend with backend or analytics if required
+
+---
+
+## Credits
+
+This project is created for learning, portfolio, and demo purposes.
+
+---
+
+## License
+
+This project is open-source and available under the MIT License.
