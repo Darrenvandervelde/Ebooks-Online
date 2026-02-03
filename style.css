@@ -10,9 +10,9 @@
     --background: hsl(28, 25%, 97%);
     --foreground: hsl(20, 14.3%, 4.1%);
     
-    --primary: hsl(24, 70%, 36%);
-    --primary-foreground: hsl(28, 25%, 97%);
-    --primary-glow: hsl(24, 70%, 56%);
+    --primary: hsl(224, 70%, 36%);
+    --primary-foreground: hsl(225, 25%, 97%);
+    --primary-glow: hsl(244, 70%, 56%);
     
     --secondary: hsl(28, 25%, 88%);
     --secondary-foreground: hsl(20, 14.3%, 4.1%);
@@ -20,7 +20,7 @@
     --muted: hsl(28, 25%, 92%);
     --muted-foreground: hsl(25, 5.3%, 44.7%);
     
-    --accent: hsl(43, 74%, 66%);
+    --accent: hsl(236, 74%, 66%);
     --accent-foreground: hsl(20, 14.3%, 4.1%);
     
     --card: hsl(0, 0%, 100%);
@@ -30,13 +30,13 @@
     
     /* Design tokens */
     --warm-cream: hsl(43, 50%, 94%);
-    --literary-brown: hsl(20, 25%, 25%);
-    --golden-accent: hsl(43, 74%, 66%);
+    --literary-brown: hsl(236, 25%, 25%);
+    --golden-accent: hsl(224, 74%, 66%);
     
     /* Gradients */
-    --gradient-hero: linear-gradient(135deg, hsl(24, 70%, 36%) 0%, hsl(24, 70%, 56%) 100%);
+    --gradient-hero: linear-gradient(135deg, hsl(229, 70%, 36%) 0%, hsl(241, 70%, 56%) 100%);
     --gradient-warm: linear-gradient(180deg, hsl(43, 50%, 94%) 0%, hsl(28, 25%, 97%) 100%);
-    --gradient-book: linear-gradient(145deg, hsl(43, 74%, 66%) 0%, hsl(24, 70%, 56%) 100%);
+    --gradient-book: linear-gradient(145deg, hsl(226, 74%, 66%) 0%, hsl(224, 70%, 56%) 100%);
     
     /* Shadows */
     --shadow-soft: 0 4px 20px -4px hsla(24, 70%, 36%, 0.1);
@@ -1006,4 +1006,5 @@ body {
     .floating-element-2 {
         display: none;
     }
+
 }
